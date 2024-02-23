@@ -120,6 +120,10 @@ color: #434455;
 }
 
 /* <!-- Sektion-3 --> */
+.section-sss {
+  background-color: #F4F4FD;
+}
+
 .our-team {
   font-weight: 700;
   font-size: 36px;
@@ -178,7 +182,22 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
+/* <!-- Footer --> */
 
+.footer {
+background: #2e2f42;
+width: 1440px;
+height: 312px;
+}
+
+.footer-text {
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
 
 
 
@@ -189,5 +208,3 @@ body {
   background-color: #fff;
 }
 
-.headteam {
-}
