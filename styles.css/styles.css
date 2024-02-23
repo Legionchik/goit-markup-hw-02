@@ -52,10 +52,16 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+font-style: normal;
+color: #434455;
+
 }
-
-
-
+.social-links .email-telefon :hover {
+  color: #404bbf;
+}
+.social-links :focus {
+  color: #404bbf;
+}
 
 /* <!-- Section-1 --> */
 
@@ -83,12 +89,17 @@ background: #2e2f42;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 
 }
 
 .botton:hover {
   background-color: #404BBF;
   cursor: pointer;
+
+}
+.botton .botton:focus {
+  background-color: #404BBF;
 }
   
 /* <!-- Section-2 --> */
