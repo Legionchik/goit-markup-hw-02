@@ -48,13 +48,16 @@ line-height: normal;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
   cursor: pointer;
   }
-  .menu-nav:hover{
+  .menu-nav-index{
+   color: #2e2f42;
+  } 
+  .menu-nav-index:hover{
     color: #404bbf;
   }
-  .menu-nav:focus{
+  .menu-nav-index:focus{
     color: #404bbf;
   }
 
