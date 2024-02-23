@@ -1,4 +1,10 @@
 
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+
 /* top-line */
 
 
@@ -221,10 +227,4 @@ color: #f4f4fd;
 }
 
 
-
-body {
-  font-family: "Roboto", cursive;
-  color: #212121;
-  background-color: #fff;
-}
 
