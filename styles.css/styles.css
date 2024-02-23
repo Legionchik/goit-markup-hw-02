@@ -108,10 +108,9 @@ background: #2e2f42;
 
 }
 .botton :focus {
-  background-color: #404BBF;
-  cursor: pointer;
-}
-  
+  background-color: #404bbf;
+  }
+
 /* <!-- Section-2 --> */
 
 .light-bg {
