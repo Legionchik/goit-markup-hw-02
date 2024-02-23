@@ -49,11 +49,12 @@ line-height: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  cursor: pointer;
   }
-  .menu-nav :hover{
+  .menu-nav:hover{
     color: #404bbf;
   }
-  .menu-nav :focus{
+  .menu-nav:focus{
     color: #404bbf;
   }
 
@@ -107,7 +108,7 @@ background: #2e2f42;
   cursor: pointer;
 
 }
-.botton :focus {
+.botton:focus {
   background-color: #404bbf;
   }
 
