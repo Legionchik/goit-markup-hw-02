@@ -52,6 +52,9 @@ line-height: normal;
   cursor: pointer;
   }
   
+  .email-telefon {
+    background: #fff;
+  }
   .menu-nav-index:hover{
     color: #404bbf;
   }
