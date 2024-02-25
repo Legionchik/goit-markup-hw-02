@@ -47,7 +47,7 @@ line-height: normal;
     background: #fff;
   }
   /* .menu-nav-index */
-  .menu-nav-index {
+  .menu-nav-index{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -61,14 +61,7 @@ line-height: normal;
     color: #404bbf;
   }
  /* .menu-nav-index */
-  .menu-nav {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-   
-    }
+ 
 .contacts {
 font-weight: 400;
 font-size: 16px;
