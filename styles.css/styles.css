@@ -35,7 +35,6 @@ color: #4d5ae5;
 }
 
 .menu-elements {
-
 display: flex;
 flex-direction: column;
 background: #fff;
@@ -49,8 +48,7 @@ line-height: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
- 
-  }
+   }
   
   .email-telefon {
     background: #fff;
@@ -58,8 +56,9 @@ line-height: normal;
   .menu-nav-index .menu-nav {
     font-weight: 500;
     line-height: 1.5;
+    font-size: 16px;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:  #434455;
   }
   
   .menu-nav-index:hover{
