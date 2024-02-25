@@ -49,13 +49,13 @@ line-height: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  cursor: pointer;
+ 
   }
   
   .email-telefon {
     background: #fff;
   }
-  .menu-nav-index {
+  .menu-nav-index .menu-nav {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
